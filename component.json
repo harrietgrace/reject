@@ -1,0 +1,16 @@
+{
+  "name": "reject",
+  "version": "0.1.0",
+  "repo": "harrietgrace/reject",
+  "description": "Iterate over elements of a collection, and return an array of elements the predicate does not return truthy for.",
+  "keywords": [],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "scripts": [
+    "lib/index.js"
+  ],
+  "dependencies": {},
+  "development": {
+    "component/assert": "*"
+  }
+}
